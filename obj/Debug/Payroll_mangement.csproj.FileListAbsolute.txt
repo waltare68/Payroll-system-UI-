@@ -1,0 +1,151 @@
+c:\users\tariq hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\bin\Debug\Payroll_mangement.exe.config
+c:\users\tariq hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\bin\Debug\Payroll_mangement.exe
+c:\users\tariq hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\bin\Debug\Payroll_mangement.pdb
+c:\users\tariq hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.Form1.resources
+c:\users\tariq hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.Properties.Resources.resources
+c:\users\tariq hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.csproj.GenerateResource.Cache
+c:\users\tariq hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.exe
+c:\users\tariq hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.pdb
+c:\users\tariq hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.DashBoard.resources
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.UC_Employee.resources
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.UC_setting.resources
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.add_designation_form.resources
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.add_branch.resources
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.add_bonus.resources
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.add_allowamces.resources
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.csprojResolveAssemblyReference.cache
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.UC_salary.resources
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.add_basic_salary_form.resources
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.Issue_salary_form.resources
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.Advance_salary_scheme.resources
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.issue_advance_salary.resources
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.UC_employeee_loan.resources
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.UC_employee_loan.resources
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.add_applicant.resources
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.add_loan.resources
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.add_secheme.resources
+C:\Users\Tariq Hussain\documents\visual studio 2015\Projects\Payroll_mangement\Payroll_mangement\obj\Debug\Payroll_mangement.add_installment.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Payroll_mangement.exe.config
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.exe
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.pdb
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Payroll_mangement.exe
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Payroll_mangement.pdb
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_allowamces.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_applicant.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_basic_salary_form.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_bonus.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_branch.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_designation_form.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_loan.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.Advance_salary_scheme.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.DashBoard.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.issue_advance_salary.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.Issue_salary_form.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.Properties.Resources.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.UC_Employee.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.UC_employeee_loan.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.UC_salary.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.UC_setting.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.csproj.GenerateResource.Cache
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.losn_secheme.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.issue_loan.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.loan_installment.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.login_form.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.UC_account.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.employee_account_form.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_insurance_account_form.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.org_contrubution_amount_from.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.medical_payment_account_detilas_form.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.employee_retirement_account_form.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.retitement_payment_form.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.csproj.Payroll_mangement.exe.config
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Devart.Data.dll
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Devart.Data.PostgreSql.dll
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Devart.Data.PostgreSql.Vs.dll
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\EnvDTE.dll
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\VSLangProj.dll
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\VsWebSite.Interop.dll
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\stdole.dll
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Devart.Data.xml
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Devart.Data.PostgreSql.xml
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.personal_designation.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_category.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.fun_designation.resources
+H:\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.csprojResolveAssemblyReference.cache
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Payroll_mangement.exe.config
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Payroll_mangement.exe
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Payroll_mangement.pdb
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Devart.Data.dll
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Devart.Data.PostgreSql.dll
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Devart.Data.PostgreSql.Vs.dll
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\EnvDTE.dll
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\VSLangProj.dll
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\VsWebSite.Interop.dll
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\stdole.dll
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Devart.Data.xml
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Devart.Data.PostgreSql.xml
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.csprojResolveAssemblyReference.cache
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.exe.config
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_category.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_allowamces.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_applicant.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_basic_salary_form.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_bonus.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_branch.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_designation_form.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_insurance_account_form.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.employee_account_form.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.employee_retirement_account_form.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.fun_designation.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.loan_installment.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.add_loan.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.issue_loan.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.losn_secheme.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.Advance_salary_scheme.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.DashBoard.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.login_form.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.issue_advance_salary.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.Issue_salary_form.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.medical_payment_account_detilas_form.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.org_contrubution_amount_from.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.personal_designation.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.Properties.Resources.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.retitement_payment_form.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.UC_account.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.UC_Employee.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.UC_employeee_loan.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.UC_salary.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.UC_setting.resources
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.csproj.GenerateResource.Cache
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.csproj.CoreCompileInputs.cache
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.exe
+E:\youtube Data\youtube data\projects\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.pdb
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.exe.config
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.DashBoard.resources
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.login_form.resources
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.Properties.Resources.resources
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.UC_employeee_loan.resources
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.csproj.GenerateResource.Cache
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.csproj.CoreCompileInputs.cache
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.exe
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.pdb
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Payroll_mangement.exe.config
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Payroll_mangement.exe
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Payroll_mangement.pdb
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Devart.Data.dll
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Devart.Data.PostgreSql.dll
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Devart.Data.PostgreSql.Vs.dll
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\bin\Debug\EnvDTE.dll
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\bin\Debug\VSLangProj.dll
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\bin\Debug\VsWebSite.Interop.dll
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\bin\Debug\stdole.dll
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Devart.Data.xml
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\bin\Debug\Devart.Data.PostgreSql.xml
+C:\Users\My Boshooo\Desktop\PROJECT\Payroll_mangement Advance\Payroll_mangement\obj\Debug\Payroll_mangement.csprojResolveAssemblyReference.cache
